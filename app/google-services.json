@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "384392935313",
+    "firebase_url": "https://loveit-2a93d.firebaseio.com",
+    "project_id": "loveit-2a93d",
+    "storage_bucket": "loveit-2a93d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384392935313:android:ffa32b335baa5b22504c30",
+        "android_client_info": {
+          "package_name": "edu.tomerbu.lec11firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384392935313-ct8vehclccj1jtse1v8tj0dtap5ckjkm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.tomerbu.lec11firebase",
+            "certificate_hash": "35a095b3d1cbf620dee16ffe5f1a3f6f4a461fa6"
+          }
+        },
+        {
+          "client_id": "384392935313-cgk79jcqvnb868maiockhm9e2mdjkp2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtkqxuTI_2XviQZdqJ5q5nJSuAlY9Q-b4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384392935313-cgk79jcqvnb868maiockhm9e2mdjkp2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
